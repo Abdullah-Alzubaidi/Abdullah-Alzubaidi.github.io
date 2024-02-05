@@ -47,7 +47,7 @@ section {
 .about-content {
     max-width: 907px;
     margin: 0 auto;
-    text-align: left;
+    text-align: justify;
 }
 
 #projects .project {
