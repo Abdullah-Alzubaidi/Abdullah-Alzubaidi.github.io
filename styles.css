@@ -46,10 +46,12 @@ section {
 }
 
 .about-content {
+    max-width: 907px;
+    margin: 0 auto;
     text-align: justify;
 }
-;
-}
+
+
 
 #projects .project {
     margin-bottom: 1rem;
