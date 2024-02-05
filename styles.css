@@ -1,11 +1,12 @@
-/* Reset some default styles */
+/* Reset default styles */
 body, h1, h2, h3, p, ul, li {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Arial', sans-serif;
     line-height: 1.6;
 }
 
@@ -57,7 +58,6 @@ section {
     border: 1px solid #ddd;
     text-align: left;
 }
-
 
 #contact {
     background-color: #e0e0e0;
